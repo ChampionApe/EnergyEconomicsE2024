@@ -1,6 +1,6 @@
 import os
 curr = os.getcwd()
-_repo = 'EnergyEconomicsE2023'
+_repo = 'EnergyEconomicsE2024'
 _repodir = os.path.join(os.getcwd().split(_repo,1)[0],_repo)
 _pydir = os.path.join(_repodir,'py')
 os.chdir(_pydir)
